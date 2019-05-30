@@ -1,5 +1,5 @@
 ## Hello, World!
-I want to link to my [first post](first-post.md)
+I want to link to my [first post](first_post.md)
 
 ## Welcome to GitHub Pages
 
