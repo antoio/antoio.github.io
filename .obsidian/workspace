@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "84843d3a75358de6",
+    "type": "split",
+    "children": [
+      {
+        "id": "006be56cfc0ca92d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "in_progress/work_tools_and_structure.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e3feaa0e19359ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f7e3f88faeb2567",
+        "type": "tabs",
+        "dimension": 61.80290297937356,
+        "children": [
+          {
+            "id": "4932388356055dbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d8879a2d6bb7ac6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5be039d6c0e6a603",
+        "type": "tabs",
+        "dimension": 38.19709702062643,
+        "children": [
+          {
+            "id": "efbead6b28b020f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "in_progress/work_tools_and_structure.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d34fc5474a29813",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca5013145255369b",
+        "type": "tabs",
+        "dimension": 84.72116119174943,
+        "children": [
+          {
+            "id": "7d4a842b7f8093b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "in_progress/work_tools_and_structure.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "df9590a2fb1cf248",
+        "type": "tabs",
+        "dimension": 15.278838808250573,
+        "children": [
+          {
+            "id": "360f929caf35eb8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "in_progress/work_tools_and_structure.md",
+    "posts/first_post.md",
+    "Untitled.md",
+    "in_progress/work_structure.md",
+    "index.md"
+  ]
+}
