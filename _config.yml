@@ -1,9 +1,0 @@
-theme: jekyll-theme-merlot
-title: A rickle in time
-description: Regular software dev blog to get stuff of my chest
-
-plugins: 
- - jekyll-relative-links
-relative_links:
- enabled: true
- collections: true
