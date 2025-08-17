@@ -4,9 +4,41 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GitHub Page</title>
+    <style>
+        .rainbow-box {
+            padding: 20px;
+            margin: 20px;
+            border-radius: 15px;
+            background: white;
+            position: relative;
+            border: 3px solid transparent;
+            background-clip: padding-box;
+        }
+        .rainbow-box::after {
+            content: '';
+            position: absolute;
+            top: -5px; right: -5px; bottom: -5px; left: -5px;
+            z-index: -1;
+            border-radius: 17px;
+            background: linear-gradient(
+                45deg,
+                #ff0000, #ff8000, #ffff00,
+                #00ff00, #00ffff, #0000ff,
+                #8000ff, #ff00ff
+            );
+            animation: rainbow 6s linear infinite;
+        }
+        @keyframes rainbow {
+            0% { filter: hue-rotate(0deg); }
+            100% { filter: hue-rotate(360deg); }
+        }
+    </style>
 </head>
 <body>
     <h1>Hello, World!</h1>
     <p>This is a simple GitHub Pages site.</p>
+    <div class="rainbow-box">
+        <p style="margin: 0; text-align: center; font-size: 1.2em;">I need more cowbell!</p>
+    </div>
 </body>
 </html>
